@@ -1,0 +1,5 @@
+{
+  "name": "AI Book Weaver",
+  "description": "An application that uses AI to generate a complete book from a single topic, including introduction, chapters, conclusion, and references. Users can specify the number of pages and download the final book as a PDF.",
+  "requestFramePermissions": []
+}
